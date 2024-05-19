@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: backend-dijkstra-container
-          image: aryanpatel111/dijkstra-shortest-path-finder
+          image: 23subbhashit/dijkstra-shortest-path-finder
           ports:
             - containerPort: 8081

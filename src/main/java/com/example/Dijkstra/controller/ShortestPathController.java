@@ -16,7 +16,7 @@ public class ShortestPathController {
         this.shortestPathService = shortestPathService;
     }
 
-    @GetMapping("/shortest-path")
+    @GetMapping("/dijkstra")
     public ShortestPathResult findShortestPath(
             @RequestParam("start") String start,
             @RequestParam("end") String end) {
