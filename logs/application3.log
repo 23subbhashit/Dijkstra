@@ -1,0 +1,11 @@
+2024-05-21T20:09:38.750+05:30 [main] INFO  com.example.Dijkstra.DijkstraApplication - Starting DijkstraApplication using Java 11.0.21 on DESKTOP-GO8MFI3 with PID 23032 (C:\Users\User\Desktop\MajorFinal\Dijkstra\target\classes started by User in C:\Users\User\Desktop\MajorFinal\Dijkstra)
+2024-05-21T20:09:38.767+05:30 [main] INFO  com.example.Dijkstra.DijkstraApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-21T20:09:40.497+05:30 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-05-21T20:09:40.530+05:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-05-21T20:09:40.531+05:30 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-21T20:09:40.538+05:30 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2024-05-21T20:09:40.909+05:30 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-21T20:09:40.910+05:30 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2060 ms
+2024-05-21T20:09:41.721+05:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-05-21T20:09:41.742+05:30 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-05-21T20:09:41.755+05:30 [main] INFO  com.example.Dijkstra.DijkstraApplication - Started DijkstraApplication in 3.651 seconds (JVM running for 6.58)
